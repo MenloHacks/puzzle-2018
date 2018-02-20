@@ -85,10 +85,10 @@ DATABASES = {
 }
 
 #heroku settings
-# import dj_database_url
-# DATABASES = {}
-# DATABASES['default'] = dj_database_url.config()
-# ALLOWED_HOSTS = ['*']
+import dj_database_url
+DATABASES = {}
+DATABASES['default'] = dj_database_url.config()
+ALLOWED_HOSTS = ['*']
 
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators
@@ -107,6 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
+STATIC_ROOT = 'staticfiles'
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "app/static"),
