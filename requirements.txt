@@ -1,0 +1,9 @@
+diff-match-patch
+dj-database-url
+dj-static
+Django
+django-bootstrap-form
+django-import-export
+django-toolbelt
+gunicorn
+static3

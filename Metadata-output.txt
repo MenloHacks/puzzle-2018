@@ -1,0 +1,20 @@
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20180220132652-08'00'
+InfoBegin
+InfoKey: Clue
+InfoValue: v=
+InfoBegin
+InfoKey: Creator
+InfoValue: Writer
+InfoBegin
+InfoKey: Producer
+InfoValue: LibreOffice 5.1
+PdfID0: 482883d166d9042f9e1e24ba53cd37db
+PdfID1: 482883d166d9042f9e1e24ba53cd37db
+NumberOfPages: 1
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 612 792
+PageMediaDimensions: 612 792
