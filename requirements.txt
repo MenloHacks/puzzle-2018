@@ -7,3 +7,4 @@ django-import-export
 django-toolbelt
 gunicorn
 static3
+requests
