@@ -23,6 +23,4 @@ urlpatterns = [
     url(r'^$', views.intro),
     url(r'^aspen/$', views.clue_1_5),
     url(r'^extractedtheascii$', views.clue_2),
-    url(r'^sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=/$',
-        views.clue_3)
 ]
