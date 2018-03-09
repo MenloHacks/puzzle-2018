@@ -5,7 +5,7 @@ from django.http import HttpResponse
 from datetime import datetime
 import requests
 
-start_time = datetime(2017, 3, 18, 1, 0, 0, 0)
+start_time = datetime(2018, 3, 10, 12, 0, 0, 0)
 def intro(request):
     if datetime.now() < start_time:
         return render(request, "before_opening.html")
