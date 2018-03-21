@@ -2,7 +2,7 @@
 This was a puzzle developed for MenloHacks III. It was not successfully solved, even after providing hints.
  
 ## Part 1
-The first part of the puzzle contains the following 926128068, which is in epoch time. Going to an epoch time converter
+The first part of the puzzle contains 926128068, which is a date in epoch time. Going to an epoch time converter
 online will tell you that this date is May 8, 1999. In order to continue, you need to know something about internet 
 history. In 1999, pets.com was all the rage. If you go to the wayback machine, you can see what it looked like on May 8,
 1999. On the page, you'll see "dog chews pack" for $8.29. Perfect! It's from Aspen pet products. Going to 
